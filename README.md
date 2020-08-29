@@ -1,2 +1,4 @@
 # hello-world
-There are many like it, but this one is mine.
+We're all just atoms here.
+
+Oscillating about.
